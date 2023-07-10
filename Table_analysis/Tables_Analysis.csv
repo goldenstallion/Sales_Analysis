@@ -1,0 +1,28 @@
+i,n,d,e,x
+O,r,d,e,r, ,I,D
+R,o,w, ,I,D
+C,u,s,t,o,m,e,r, ,I,D
+C,u,s,t,o,m,e,r, ,N,a,m,e
+C,u,s,t,o,m,e,r, ,S,e,g,m,e,n,t
+O,r,d,e,r, ,P,r,i,o,r,i,t,y
+S,h,i,p, ,M,o,d,e
+P,r,o,d,u,c,t, ,C,a,t,e,g,o,r,y
+P,r,o,d,u,c,t, ,S,u,b,-,C,a,t,e,g,o,r,y
+P,r,o,d,u,c,t, ,C,o,n,t,a,i,n,e,r
+P,r,o,d,u,c,t, ,N,a,m,e
+M,a,n,a,g,e,r, ,N,a,m,e
+R,e,g,i,o,n
+S,t,a,t,e, ,o,r, ,P,r,o,v,i,n,c,e
+C,i,t,y
+P,o,s,t,a,l, ,C,o,d,e
+O,r,d,e,r, ,D,a,t,e
+S,h,i,p, ,D,a,t,e
+S,h,i,p,p,i,n,g, ,C,o,s,t
+P,r,o,d,u,c,t, ,B,a,s,e, ,M,a,r,g,i,n
+Q,u,a,n,t,i,t,y, ,o,r,d,e,r,e,d, ,n,e,w
+U,n,i,t, ,P,r,i,c,e
+D,i,s,c,o,u,n,t
+D,e,l,i,v,e,r,y,(,D,a,y,s,)
+P,r,o,f,i,t
+S,a,l,e,s
+P,r,o,f,i,t, ,M,a,r,g,i,n,%
